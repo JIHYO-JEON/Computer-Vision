@@ -1,5 +1,5 @@
 # Computer-Vision
-Studying computer vision with python
+Studying Computer Vision with Python3, OpenCV, TensorFlow
 
 ## Depth from focus
 ## Structure from Motion
